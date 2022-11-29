@@ -1,5 +1,5 @@
 <h1>Roja Ray</h1>
-<small>Kendrapara, Odisha, India<small>
+<Big>📍</Big><small>Kendrapara, Odisha, India<small>
 
 <img src="https://github.com/Roja-Ray/Roja-Ray/blob/6e537bb1c7e29bb9aba6630ae0b2be98a9e49ee7/472108440_HELLO_STICKER_400px.gif" align="right">
 
@@ -14,9 +14,9 @@ I am a student of Gandhi Institute for Education and Technology, baniatangi majo
 |          Degree         |                  Institute                       |              Discipline                |
 |:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
 | Bachelor of Technology  | Gandhi Institute for Education & Technology      | Computer Science and Engineering       |
-|:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
+
 |      Internediate       |                                                  |               Science                  |
-|:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
+
 |          10th           |                                                  |                                        |
 
 
