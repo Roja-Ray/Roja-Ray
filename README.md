@@ -12,7 +12,7 @@ I am a student of Gandhi Institute for Education and Technology, baniatangi majo
 
 ##Education
 |          Degree         |                  Institute                       |              Discipline                |
-|-------------------------|--------------------------------------------------|----------------------------------------|
+|:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
 | Bachelor of Technology  | Gandhi Institute for Education & Technology      | Computer Science and Engineering       |
 |-------------------------|--------------------------------------------------|----------------------------------------|
 |      Internediate       |                                                  |               Science                  |
