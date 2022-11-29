@@ -14,16 +14,16 @@ I am a student of Gandhi Institute for Education and Technology, baniatangi majo
 |          Degree         |                  Institute                       |              Discipline                |
 |:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
 | Bachelor of Technology  | Gandhi Institute for Education & Technology      | Computer Science and Engineering       |
-
+|:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
 |      Internediate       |                                                  |               Science                  |
-
+|:-----------------------:|:------------------------------------------------:|:--------------------------------------:|
 |          10th           |                                                  |                                        |
 
 
 ## Interests
-* Machine Learning
-* Data Analysis 
-* Government Services
+* **`Machine Learning`**
+* **`Data Analysis `**
+* **`Government Services`**
 
 
 ## Extracurriculam 
