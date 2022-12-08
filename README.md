@@ -5,8 +5,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roja.ray18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roja-ray/)
-[![Quora](https://img.shields.io/badge/Quora-D14836?style=for-the-badge&logo=Quora&logoColor=white)(https://www.quora.com/profile/Roja-Ray-2?ch=10&oid=2025502311&share=555b24b6&srid=hJvIMt&target_type=user)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(http://twitter.com/RojaRay4?=3vvB9ltsjcsgNyT1e3YTJw&s=08)
+[![Quora](https://img.shields.io/badge/Quora-D14836?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Roja-Ray-2?ch=10&oid=2025502311&share=555b24b6&srid=hJvIMt&target_type=user)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://twitter.com/RojaRay4?=3vvB9ltsjcsgNyT1e3YTJw&s=08)
 
 <h1> Biography </h1>
 I am a student of **Gandhi Institute for Education and Technology**, baniatangi majoring in **Computer Science and Engineering**, I am a **passionate girl**, with a constant urge of **finding solution** of the problem, I believe to be an **self-sufficient person** and always seek to help and **guide other** in their righteous path. I have been know for **my organizing and presentative veiws**, while I have been the **lead of the Organizer team** of all the presentation and seminar sessions.
